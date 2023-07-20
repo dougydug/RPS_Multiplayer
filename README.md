@@ -9,5 +9,5 @@ To run:
 5) Using the terminal, run the generate_config.py script
 6) Run the server.py script
 7) Run the client.py script on your first machine
-8) Run the client.py scirpt on a second machine
+8) Run the client.py scirpt on a second machine on the same network
    
